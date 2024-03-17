@@ -4,7 +4,8 @@ This repository demonstrates how to deploy a static website to AWS using S3, Rou
 
 ## Overview
 
-![Deployment Diagram](diagram.png)
+![S3WEBSITE drawio](https://github.com/Aquino-Felipe/Deploy-a-Static-Website-on-AWS/assets/105683421/004161d2-e6bd-4246-939d-902a654342c1)
+
 
 1. **Static Website Content**: Your website content (HTML, CSS, JavaScript, images, etc.) is stored in an S3 bucket configured for static website hosting.
 
